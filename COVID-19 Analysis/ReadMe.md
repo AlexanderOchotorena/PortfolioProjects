@@ -1,0 +1,1 @@
+This was an Extensive Analysis of the [CDC COVID-19](https://ourworldindata.org/covid-deaths) Data set. I was using both SQL and Pandas to analyze and process the data. Then, I put that data into a PowerBI dashboard for the SQL analysis and used plotly for the pandas analysis.  
