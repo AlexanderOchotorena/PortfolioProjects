@@ -1,0 +1,1 @@
+This project analyzed a Kaggle [[Link](https://www.kaggle.com/datasets/dorothyjoel/us-regional-sales)] supply chain dataset using Pandas for data insights, Plotly for dynamic visualizations, and created a concise Power BI dashboard for actionable insights, providing a comprehensive and user-friendly understanding of the supply chain dynamics.
